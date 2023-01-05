@@ -109,23 +109,23 @@ nav ul li a:hover{
   /* Set a specific color for each brand */
   
   /* Facebook */
-  .fa-facebook {
-    background: #3B5998;
+  #facebook{
+    background-color: #3B5998;
     color: white;
   }
   
   /* Twitter */
-  .fa-twitter {
+  #twitter {
     background: #55ACEE;
     color: white;
   }
   /* Instagram */
-  .fa-instagram {
+  #instagram {
     background:crimson;
     color: white;
   }
   /* Linkedin */
-  .fa-linkedin {
-    background: #154367;
+  #linkedin {
+    background-color: #55ACEE;
     color: white;
   }
